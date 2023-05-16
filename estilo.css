@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -11,19 +11,19 @@
 }
 
 .azul {
-    width: 3.3%;
+    width: 3%;
     height: 10%;
     background-color: rgb(33, 33, 175);
 }
 
 .amarelo {
-    width: 3.3%;
+    width: 3%;
     height: 10%;
     background-color: yellow
 }
 
 .vermelho {
-    width: 3.3%;
+    width: 3%;
     height: 10%;
     background-color: rgb(197, 17, 17)
 }
