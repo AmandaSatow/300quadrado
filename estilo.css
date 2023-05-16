@@ -1,1 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.mural {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.azul {
+    width: 3.3%;
+    height: 10%;
+    background-color: rgb(33, 33, 175);
+}
+
+.amarelo {
+    width: 3.3%;
+    height: 10%;
+    background-color: yellow
+}
+
+.vermelho {
+    width: 3.3%;
+    height: 10%;
+    background-color: rgb(197, 17, 17)
+}
