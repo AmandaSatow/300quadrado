@@ -17,29 +17,29 @@
 .linha {
         display: flex;
         flex-direction: row;
-        height: 10vh;
+        height: 100vh;
+        width: 100%;
         left: 0;
-        margin-bottom: 0%;
 }
 
 .azul {
     width: 3.3%;
-    height: 10%;
+    height: 100%;
     background-color: blue;
-    margin: 0;
+ 
 }
 
 .amarelo {
     width: 3.3%;
-    height: 10%;
+    height: 100%;
     background-color: yellow;
-    margin: 0;
+   
 }
 
 
 .vermelho {
     width: 3.3%;
-    height: 10%;
+    height: 100%;
     background-color: red;
-    margin: 0;
+
 }
