@@ -16,19 +16,25 @@
   
 
 .azul {
-    width: 3%;
-    height: 10%;
+    width:3%;
+    height:10%;
     background-color: blue;
+    display: flex;
+    flex-direction: row;
 }
 
 .amarelo {
     width: 3%;
     height: 10%;
     background-color: yellow;
+    display: flex;
+    flex-direction: row;
 }
 
 .vermelho {
     width: 3%;
     height: 10%;
     background-color: red;
+    display: flex;
+    flex-direction: row;
 }
