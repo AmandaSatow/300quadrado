@@ -17,7 +17,7 @@
 .linha {
         display: flex;
         flex-direction: row;
-        height: 30px;
+        height: 3.3%;
         width: 100%;
         left: 0;
 }
